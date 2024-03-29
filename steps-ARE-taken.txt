@@ -1,0 +1,15 @@
+# In this lab we followed below steps:
+
+## 1. Grate Github repo, add collaborators and create Branch protection rule, and create environment (production)
+
+
+![A screenshot of a computer Description automatically
+generated](./Screenshots/branch protection.png)
+
+![A screenshot of a computer Description automatically
+generated](./Screenshots/env creation.png)
+
+* Created project folder structure and committed and pushed to the repo
+
+![A screenshot of a computer Description automatically
+generated](./Screenshots/create project structure.png)
