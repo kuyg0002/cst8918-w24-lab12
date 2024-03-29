@@ -4,12 +4,12 @@
 
 
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/branch protection.png)
+generated](./Screenshots-FOR-steps/branch protection.png)
 
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/env creation.png)
+generated](./Screenshots-FOR-steps/env creation.png)
 
 * Created project folder structure and committed and pushed to the repo
 
 ![A screenshot of a computer Description automatically
-generated](./Screenshots/create project structure.png)
+generated](./Screenshots-FOR-steps/create project structure.png)
