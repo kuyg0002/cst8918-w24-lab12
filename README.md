@@ -106,3 +106,11 @@ generated](./Screenshots/22.png)
 - Created federated identity for main branch
   ![A screenshot of a computer Description automatically
 generated](./Screenshots/23.png)
+
+## Step 4: 
+- Created four secrets at the repository level
+
+![A screenshot of a computer Description automatically
+generated](./Screenshots/4a.png)
+
+
