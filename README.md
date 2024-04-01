@@ -59,3 +59,50 @@ generated](./Screenshots/11.png)
 - Check in Azure portal if resource group is creted
   ![A screenshot of a computer Description automatically
 generated](./Screenshots/12.png)
+
+## Step 3: Create Azure credentials to be used by GitHub Actions
+
+### Create a pair of Azure AD applications with service principals
+
+- Created an Azure AD app with displayname sant0232-githubactions-rw
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/13.png)
+
+- Exported appId to environment variable appIdRW and created a service principal with it
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/14.png)
+
+- Got object id of the service principal and assigned it to assigneeObjectId variable
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/15.png)
+
+- Assigned contributor role to service principal of project's resource group
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/16.png)
+
+- Repeated above steps for reader role
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/17.png)
+
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/18.png)
+
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/19.png)
+
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/20.png)
+
+### Create three Federated Credentials
+
+- Created federated identity for production deploy. Had to change some namings because it was accidentally deployed without saving the proper github repo and account name. Thus needed to redo.
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/21.png)
+
+- Created federated identity for pull-request
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/22.png)
+
+- Created federated identity for main branch
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/23.png)
