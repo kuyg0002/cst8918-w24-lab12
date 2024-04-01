@@ -32,3 +32,6 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Accidentally created screenlogs, so had to put that here to not commit it
+**/screenlog.0
