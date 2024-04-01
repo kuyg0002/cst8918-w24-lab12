@@ -113,4 +113,7 @@ generated](./Screenshots/23.png)
 ![A screenshot of a computer Description automatically
 generated](./Screenshots/4a.png)
 
+- Created Env. Var. secret.
+![A screenshot of a computer Description automatically
+generated](./Screenshots/4b.png)
 
