@@ -1,5 +1,5 @@
 terraform {
-  required_version = "~> 1.5"
+  required_version = ">= 1.3.6"
 
   backend "azurerm" {
     resource_group_name  = "sant0232-githubactions-rg"

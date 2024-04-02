@@ -117,3 +117,12 @@ generated](./Screenshots/4a.png)
 ![A screenshot of a computer Description automatically
 generated](./Screenshots/4b.png)
 
+## Step 7:
+
+- Unfortunately pr is unsuccessfully because of Github Action is not success for authentication.
+
+![A screenshot of a computer Description automatically
+generated](./Screenshots/7a.png)
+
+![A screenshot of a computer Description automatically
+generated](./Screenshots/7b.png)
