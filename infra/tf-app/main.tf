@@ -2,7 +2,7 @@ resource "azurerm_resource_group" "rg" {
   name     = "sant0232-a12-rg"
   location = "canadacentral"
 }
-resource "azurerm_virtual_network" "lab12-vnet" {
+resource "azurerm_virtual_network" "lab12_vnet" {
   name                = "lab12-vnet"
   location            = azurerm_resource_group.rg.location
   resource_group_name = azurerm_resource_group.rg.name
