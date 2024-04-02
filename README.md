@@ -107,13 +107,22 @@ generated](./Screenshots/22.png)
   ![A screenshot of a computer Description automatically
 generated](./Screenshots/23.png)
 
-## Step 4: 
+## Step 4:
+
 - Created four secrets at the repository level
 
 ![A screenshot of a computer Description automatically
 generated](./Screenshots/4a.png)
 
 - Created Env. Var. secret.
-![A screenshot of a computer Description automatically
+  ![A screenshot of a computer Description automatically
 generated](./Screenshots/4b.png)
 
+## Screenshot of Github workflow checks
+
+- One check was not successful
+  ![A screenshot of a computer Description automatically
+generated](./Screenshots/pr-checks.png)
+
+![A screenshot of a computer Description automatically
+generated](./Screenshots/pr-tf-plan.png)
